@@ -1,3 +1,6 @@
+# v3 Falta integrar banco de dados grupo fernando e ao site principal
+
+
 from nicegui import ui
 import sqlite3
 import pandas as pd
