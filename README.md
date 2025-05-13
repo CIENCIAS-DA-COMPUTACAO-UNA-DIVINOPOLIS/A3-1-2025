@@ -82,6 +82,8 @@ O projeto visa:
 ### 🧑‍💻 Créditos
 
 Desenvolvido coletivamente pelos Grupos 1 a 5 como parte do Projeto A3 — 2025-1
-UNA Divinópolis; Ciência da Computação 2025/1
+
+Alunos da Faculdade UNA Divinópolis; 
+Curso de Ciência da Computação 2025/1
 
 ---
