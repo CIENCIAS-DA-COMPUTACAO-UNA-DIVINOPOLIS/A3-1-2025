@@ -39,7 +39,7 @@ Cada parte do sistema foi implementada como uma **rota separada** usando o frame
 
 ### 🚀 Como executar o projeto
 
-1. Certifique-se de ter o Python instalado (versão 3.8+).
+1. Certifique-se de ter o Python instalado (versão 3.10+).
 2. Instale a biblioteca NiceGUI:
 
    ```bash
