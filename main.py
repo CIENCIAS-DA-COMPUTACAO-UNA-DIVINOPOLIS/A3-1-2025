@@ -9,7 +9,7 @@ ui.add_head_html('<link rel="stylesheet" href="/static/custom.css">')  # Adicion
 import paginas.login
 import paginas.dashboard
 import paginas.cadastro_usuario
-import paginas.cadastro_livro
+import paginas.cad_livros
 import paginas.devolucao
 import paginas.consulta
 
